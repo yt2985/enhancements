@@ -27,3 +27,4 @@ Session.vim
 
 # hack/test-go.sh writes files here if ARTIFACTS is unset
 tmp/
+chat_history.md
